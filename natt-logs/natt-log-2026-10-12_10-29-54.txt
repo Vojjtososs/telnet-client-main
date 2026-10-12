@@ -1,0 +1,5 @@
+[10:29:53][NATTCore][INFO] Entering to the server host mode ...
+[10:29:54][MessageBuffer][INFO] Message buffer created for module with name: telnet-server-broadcast
+[10:29:54][TelnetServer][INFO] (telnet-server-broadcast) Server socket is listening on port 9999
+[10:31:16][TelnetServer][INFO] (telnet-server-broadcast) Client disconnected
+[10:34:44][TelnetServer][INFO] (telnet-server-broadcast) Client disconnected

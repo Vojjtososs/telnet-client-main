@@ -1,0 +1,17 @@
+[10:34:42][PluginLoader][WARNING] Plugins directory not found.
+[10:34:42][ProcessManager][WARNING] Failed to read PIDs: pid-list.txt (Systém nemùže nalézt uvedený soubor)
+[10:34:42][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: https://gitlab.com/ap5vs/test-config/telnet-client-config/-/raw/main/test-config-2.yaml?ref_type=heads
+Configuration loading mode: FROM URL
+[10:34:42][NATTCore][INFO] Working directory path: C:\Users\vojta\Desktop\telnet-client-main
+[10:34:42][NATTCore][INFO] Start loading of the configuration file ...
+[10:34:44][NetworkIO][INFO] Yaml data has been loaded from network location (https://gitlab.com/ap5vs/test-config/telnet-client-config/-/raw/main/test-config-2.yaml?ref_type=heads)
+[10:34:44][NATTCore][INFO] Configuration loading done
+[10:34:44][NATTCore][INFO] Start building test structure according to the configuration ...
+[10:34:44][NATTCore][INFO] Test structure ...
+[10:34:44][NATTCore][INFO] Test structure building done
+[10:34:44][NATTCore][INFO] Start test executing ...
+[10:34:44][TestReportGenerator][INFO] Extenet reports generated. Final report will be saved to file: test_report.html
+[10:34:44][NATTCore][INFO] Starts execution on the root keyword  ...
+[10:34:44][MessageBuffer][INFO] Message buffer created for module with name: tel-server-1
